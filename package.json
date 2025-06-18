@@ -10,6 +10,7 @@
 		"check": "biome check ./ --fix",
 		"format": "biome format ./ --fix",
 		"lint": "biome lint ./ --fix",
+		"typecheck": "tsc",
 		"postinstall": "lefthook install"
 	},
 	"dependencies": {
